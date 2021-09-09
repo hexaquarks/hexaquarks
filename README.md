@@ -44,12 +44,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🔥 My Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hexaquarks&show_icons=true&theme=dark" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hexaquarks&theme=dark" alt="github streaks" />
-</p>
 
 ## 🧰 My Toolbox
 <p>
@@ -80,4 +74,11 @@ Here are some ideas to get you started:
   <img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-DD1100.svg?logo=wolfram-mathematica&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white">
+</p>
+
+## 🔥 My Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hexaquarks&show_icons=true&theme=dark" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hexaquarks&theme=dark" alt="github streaks" />
 </p>
