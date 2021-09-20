@@ -5,7 +5,7 @@
 
 ## 🔭 I am currently working on
 - Finishing my degree
-- Finishing my portofolio website
+- Writing a chess utility app
 
 ## 📖 I am currently learning 
 
@@ -13,14 +13,14 @@
 <table>
     <thead>
         <tr>
-            <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" width="55" /></th>
-            <th align="center"><code>React</code></th>
+            <th align="center"><img src="https://vuejs.org/images/logo.svg" width="40" /></th>
+            <th align="center"><code>Vue.js</code></th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" width="35" /></td>
-            <td align="center"><code>Typescript</code></td>
+            <td align="center"><img src="https://ocaml.org/img/OCaml_Sticker.svg" width="40" /></td>
+            <td align="center"><code>OCaml</code></td>
         </tr>
     </tbody>
         <tr>
@@ -64,6 +64,7 @@ Here are some ideas to get you started:
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white">
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
 </p>
+&nbsp;
 
 ### 💻 Softwares
 <p>
