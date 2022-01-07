@@ -5,7 +5,7 @@
 
 ## 🔭 I am currently working on
 - Finishing my degree
-- Writing a chess utility app
+- Writing a chess game
 
 ## 📖 I am currently learning 
 
@@ -13,19 +13,19 @@
 <table>
     <thead>
         <tr>
-            <th align="center"><img src="https://vuejs.org/images/logo.svg" width="40" /></th>
-            <th align="center"><code>Vue.js</code></th>
+            <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="35" /></th>
+            <th align="center"><code>C++</code></th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center"><img src="https://ocaml.org/img/OCaml_Sticker.svg" width="40" /></td>
-            <td align="center"><code>OCaml</code></td>
+            <td align="center"><img src="https://www.sfml-dev.org/download/goodies/sfml-icon.svg" width="38" /></td>
+            <td align="center"><code>SFML</code></td>
         </tr>
     </tbody>
         <tr>
-            <td align="center"><img src="https://www.pinclipart.com/picdir/big/38-389244_41-28-january-2017-matlab-logo-transparent-clipart.png" width="35" /></td>
-            <td align="center"><code>MATLAB</code></td>
+            <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="35" /></td>
+            <td align="center"><code>Python</code></td>
         </tr>
 </table>
 </div>
@@ -58,6 +58,7 @@ Here are some ideas to get you started:
   <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
   <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
   <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white">
+  <img alt="OCaml" src="https://img.shields.io/badge/OCaml-276DC3.svg?logo=OCaml&logoColor=orange">
 </p>
 
 <p>
