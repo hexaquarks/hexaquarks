@@ -8,25 +8,20 @@
 - Writing a chess game
 
 ## 📖 I am currently learning 
-
 <div align="center" markdown="1">
 <table>
     <thead>
         <tr>
-            <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="35" /></th>
             <th align="center"><code>C++</code></th>
+            <th align="center"><code>Python</code></th>
+            <th align="center"><code>SFML</code></td>
+        </tr>
+        <tr>
+            <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="35" /></th>
+            <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="35" /></th>
+            <th align="center"><img src="https://www.sfml-dev.org/download/goodies/sfml-icon.svg" width="38" /></th>
         </tr>
     </thead>
-    <tbody>
-        <tr>
-            <td align="center"><img src="https://www.sfml-dev.org/download/goodies/sfml-icon.svg" width="38" /></td>
-            <td align="center"><code>SFML</code></td>
-        </tr>
-    </tbody>
-        <tr>
-            <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="35" /></td>
-            <td align="center"><code>Python</code></td>
-        </tr>
 </table>
 </div>
 
