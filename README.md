@@ -12,9 +12,9 @@
 <table>
     <thead>
         <tr>
-            <th align="center"><code>C++</code></th>
-            <th align="center"><code>Python</code></th>
-            <th align="center"><code>SFML</code></td>
+            <th align="center">C++</th>
+            <th align="center">Python</th>
+            <th align="center">SFML</td>
         </tr>
         <tr>
             <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="35" /></th>
