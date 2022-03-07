@@ -76,6 +76,6 @@ Here are some ideas to get you started:
 ## 🔥 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hexaquarks&show_icons=true&theme=dark" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hexaquarks&theme=dark" alt="github streaks" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hexaquarks&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hexaquarks&theme=Javascript&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&currStreakLabel=718096&dates=718096&sideNums=718096&fire=DD2727&ring=718096&border=DD2727&stroke=718096&currStreakNum=DD2727&sideLabels=9AAECC" alt="github streaks" />
 </p>
