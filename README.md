@@ -4,8 +4,9 @@
 </h3>
 
 ## 🔭 I am currently working on
+- Summer internship
 - Finishing my degree
-- Writing a chess game
+- Writing a chess analysis desktop app
 
 ## 📖 I am currently learning 
 <div align="center" markdown="1">
