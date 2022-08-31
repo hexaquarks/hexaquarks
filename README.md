@@ -4,8 +4,8 @@
 </h3>
 
 ## 🔭 I am currently working on
-- Summer internship
-- LeetCode grind
+- C++ Software Developer
+- Competitive programming grind
 - Finishing my degree
 - Writing a chess analysis desktop app
 
