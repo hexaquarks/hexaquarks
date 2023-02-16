@@ -6,8 +6,6 @@
 ## 🔭 I am currently working on
 - C++ Software Developer
 - Competitive programming grind
-- Finishing my degree
-- Writing a chess analysis desktop app
 
 ## 📖 I am currently learning 
 <div align="center" markdown="1">
@@ -15,13 +13,11 @@
     <thead>
         <tr>
             <th align="center">C++</th>
-            <th align="center">Python</th>
-            <th align="center">SFML</td>
+            <th align="center">Boost</th>
         </tr>
         <tr>
             <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="35" /></th>
-            <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="35" /></th>
-            <th align="center"><img src="https://www.sfml-dev.org/download/goodies/sfml-icon.svg" width="38" /></th>
+            <th align="center"><img src="https://theboostcpplibraries.com/static/main/img/boost-logo.svg" width="35" /></th>
         </tr>
     </thead>
 </table>
