@@ -6,6 +6,7 @@
 ## 🔭 I am currently working on
 - C++ Software Developer
 - Competitive programming grind
+- Writing a personal website for someone
 
 ## 📖 I am currently learning 
 <div align="center" markdown="1">
@@ -13,10 +14,12 @@
     <thead>
         <tr>
             <th align="center">C++</th>
+            <th align="center">MUI</th>
             <th align="center">Boost</th>
         </tr>
         <tr>
             <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="35" /></th>
+            <th align="center"><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="35" /></th>
             <th align="center"><img src="https://theboostcpplibraries.com/static/main/img/boost-logo.svg" width="35" /></th>
         </tr>
     </thead>
