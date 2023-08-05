@@ -5,8 +5,7 @@
 
 ## 🔭 I am currently working on
 - C++ Software Developer
-- Competitive programming grind
-- Writing a personal website for someone
+- Chess personal project
 
 ## 📖 I am currently learning 
 <div align="center" markdown="1">
