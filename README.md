@@ -12,13 +12,13 @@
 <table>
     <thead>
         <tr>
+            <th align="center">Rust</th>
             <th align="center">C++</th>
-            <th align="center">MUI</th>
             <th align="center">Boost</th>
         </tr>
         <tr>
+            <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="35" /></th>
             <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="35" /></th>
-            <th align="center"><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="35" /></th>
             <th align="center"><img src="https://theboostcpplibraries.com/static/main/img/boost-logo.svg" width="35" /></th>
         </tr>
     </thead>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ## 🧰 My Toolbox
 <p>
   <img alt="C++" src="https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B">
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
