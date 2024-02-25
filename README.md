@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 ## 🧰 My Toolbox
 <p>
   <img alt="C++" src="https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
